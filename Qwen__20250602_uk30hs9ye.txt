@@ -1,0 +1,7 @@
+/nvk-website/
+├── index.html
+├── styles.css
+└── images/
+    ├── logo.png
+    ├── banner.jpg
+    └── ...
